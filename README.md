@@ -14,6 +14,7 @@
 
 ## 2. master-feature
 #### 2.1. 测试，没有明确的测试分支
+#### 2.2. 版本，虽然没有明确的版本概念，但可以通过wiki记录commit id
 每个协作者都有自己的feature分支，完成之后发pull-request申请merge到master
 
 ![](https://github.com/cf95a728f034df41e0d664c2290dd21a/git_flow/blob/master/2.git_master_feature.png)
@@ -21,6 +22,7 @@
 
 ## 3. master-test-feature
 #### 3.1. 粒度
+#### 3.2. 版本，虽然没有明确的版本概念，但可以通过wiki记录commit id
 每个协作者都有自己的feature分支，feature上开发完成之后merge到test分支
 test分支定期和master同步（清除废弃的特性）
 测试通过之后，feature发pull-request申请merge到master
