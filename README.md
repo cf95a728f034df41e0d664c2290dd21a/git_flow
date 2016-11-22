@@ -52,11 +52,13 @@ test分支定期和master同步（清除废弃的特性）
 
 ![](https://github.com/cf95a728f034df41e0d664c2290dd21a/git_flow/blob/master/4.git_flow.png)
 
-![](http://images.cnitblog.com/blog/564490/201309/05090350-fe547d6e4eee4a59b606483a4cb8908c.png)
+![](http://nvie.com/img/main-branches@2x.png)
 
-![](http://images.cnitblog.com/blog/564490/201309/05090438-7c7ea7047cff4d559e47a62308bcb47e.png)
+![](http://nvie.com/img/fb@2x.png)
 
-![](http://images.cnitblog.com/blog/564490/201309/05132525-b921c42450674a50b2c03b414557c800.png)
+![](http://nvie.com/img/merge-without-ff@2x.png)
+
+![](http://nvie.com/img/hotfix-branches@2x.png)
 
 
 ## 6. references
