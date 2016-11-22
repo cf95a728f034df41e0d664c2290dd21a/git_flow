@@ -31,14 +31,12 @@ test分支定期和master同步（清除废弃的特性）
 
 
 ## 4. master-dev/test-feature
-我们的现状是
-1. 直接修改master分支上的代码
-2. dev分支同时扮演test和release角色
-3. 将分支merge到master，由开发者自己进行，而不是发pull-request
-4. 对分支的应用比较少
 #### 4.1. 权限，直接修改/合并master，缺少review，风险很大
+1. 直接修改master分支上的代码
+2. 将分支merge到master，由开发者自己进行，而不是发pull-request
 #### 4.2. 粒度，test/release角色混在一起
-
+3. dev分支同时扮演test和release角色
+4. 对分支的应用比较少
 
 ## 5. master-develop-release-feature-hotfix
 ### 5.1. main
